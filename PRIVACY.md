@@ -10,6 +10,10 @@ Access to Data is only permitted to Bot's developers, and only in the scope requ
 
 Data is stored in a Sqlite3 database. The database is secured to prevent external access, however no guarantee is provided and the Bot owners assume no liability for the unintentional or malicious breach of Data. In the event of an unauthorised Data access, users will be notified through the Discord client application.
 
+## Data Stored
+
+As little data as possible is stored, the only user data ever stored is user IDs which is used to store user balances, inventories, and cooldowns. No guild data is ever stored.
+
 ## User Rights
 
 At any time, you have the right to request to view the Data pertaining to your Discord account. You may submit a request through the [Discord Server](https://discord.gg/7YP7zBcf3S). You have the right to request the removal of relevant Data.
